@@ -1,0 +1,9 @@
+# Compiled output
+a.out
+*.o
+*.out
+*.exe
+
+# Program state (regenerated at runtime, not source)
+buy_Orders.txt
+sell_Orders.txt
